@@ -28,10 +28,12 @@ body {
 
 .book .book-details .title {
   font-weight: bold;
+  background-color: rgb(46,204,113);
 }
 
 .book .book-details .author {
   color: #777777;
+  background-color: rgb(46,204,113);
 }
 
 .book .book-details .price-block {
