@@ -37,10 +37,13 @@ body {
 }
 
 .book .book-details .price-block {
-  background-color: #2ecc71;
+	
+  background-color: rgb(46,204,113);
+/*   background-color: #2ecc71; */
   color: #ffffff;
   padding: 5px;
   border-radius: 5px;
   display: inline-block;
   margin-top: 10px;
+	
 }
